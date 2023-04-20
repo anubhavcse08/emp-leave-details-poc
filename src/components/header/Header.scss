@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    background-color: rgb(113, 89, 89);
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 0 10px;
+    .title {
+        color: white;
+        font-size: 25px;
+        font-family: cursive;
+        text-decoration: none;
+    }
+    .searchBar input {
+        height: 30px;
+    }
+}
+

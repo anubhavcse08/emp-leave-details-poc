@@ -1,0 +1,29 @@
+.card {
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    // width: 30%;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    .row {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        p, a {
+            margin: 0 2px;
+            padding: 0 2px;
+            font-size: 13px;
+            text-decoration: none;
+        }
+    }
+    .title {
+        p {
+            margin-bottom: 5px;
+            font-size: 16px;
+            color: rgb(149, 69, 12);
+            font-weight: bold;
+        }
+    }
+}

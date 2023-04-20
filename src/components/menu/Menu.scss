@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px 12px 0 12px;
+    padding: 0;
+    .name {
+        p {
+            margin: 0;
+            font-weight: 500;
+        }
+    }
+    .content {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        .sort-view {
+            margin: 0 5px;
+            width: 100px;
+            cursor: pointer;
+        }
+        .bi-list {
+            cursor: pointer;
+        }
+    }
+}
