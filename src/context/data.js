@@ -1,16 +1,16 @@
 export const data = [
     {
-        title: "holidays details",
+        title: "Holidays details",
         days: 5,
         months: 1,
-        reason: "trekking",
+        reason: "Trekking",
         url: "www.google.com"
     },
     {
-        title: "holidays details & leave",
+        title: "Holidays details & leave",
         days: 12,
         months: 2,
-        reason: "trekking & traveling",
+        reason: "Trekking & traveling",
         url: "www.google.com"
     },
     {
