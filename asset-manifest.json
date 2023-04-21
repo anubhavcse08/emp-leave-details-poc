@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emp-leave-details-poc/static/css/main.1a69cf21.css",
+    "main.js": "/emp-leave-details-poc/static/js/main.7e981954.js",
+    "static/js/787.bb7b1c2e.chunk.js": "/emp-leave-details-poc/static/js/787.bb7b1c2e.chunk.js",
+    "index.html": "/emp-leave-details-poc/index.html",
+    "main.1a69cf21.css.map": "/emp-leave-details-poc/static/css/main.1a69cf21.css.map",
+    "main.7e981954.js.map": "/emp-leave-details-poc/static/js/main.7e981954.js.map",
+    "787.bb7b1c2e.chunk.js.map": "/emp-leave-details-poc/static/js/787.bb7b1c2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a69cf21.css",
+    "static/js/main.7e981954.js"
+  ]
+}
